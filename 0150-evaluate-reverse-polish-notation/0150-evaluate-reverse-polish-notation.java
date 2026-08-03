@@ -1,30 +1,34 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer> stack=new Stack<>();
+         Deque<Integer> stack = new ArrayDeque<>();
 
-        for(int i=0;i<tokens.length;i++){
-            if(tokens[i] != null && tokens[i].matches("-?\\d+(\\.\\d+)?")){
-                int token=Integer.parseInt(tokens[i]);
-                stack.push(token);
-            }else {
-                int a=stack.pop();
-                int b=stack.pop();
+        for (String token : tokens) {
+            switch (token) {
+                case "+":
+                    stack.push(stack.pop() + stack.pop());
+                    break;
 
-                int ans=0;
+                case "-":
+                    int b = stack.pop();
+                    int a = stack.pop();
+                    stack.push(a - b);
+                    break;
 
-                if (tokens[i].equals("+")) {
-                    ans = b + a;
-                } else if (tokens[i].equals("-")) {
-                    ans = b - a;
-                } else if (tokens[i].equals("*")) {
-                    ans = a * b;
-                    } else if (tokens[i].equals("/")) {
-                    ans = b / a;
-                }
+                case "*":
+                    stack.push(stack.pop() * stack.pop());
+                    break;
 
-              stack.push(ans);
+                case "/":
+                    b = stack.pop();
+                    a = stack.pop();
+                    stack.push(a / b);
+                    break;
+
+                default:
+                    stack.push(Integer.parseInt(token));
             }
         }
-        return stack.peek();
+
+        return stack.pop();
     }
 }
