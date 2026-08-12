@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
