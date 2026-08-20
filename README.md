@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
