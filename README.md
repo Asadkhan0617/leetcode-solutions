@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
