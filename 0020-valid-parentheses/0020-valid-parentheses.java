@@ -6,20 +6,21 @@ class Solution {
         if(ch=='('||ch=='{'||ch=='['){
             stack.push(ch);
         }else {
+            if(stack.isEmpty()) return false;
             if(ch==')'){
-                if(stack.isEmpty()|| stack.pop()!='('){
+                if( stack.pop()!='('){
                     return false;
                 }
             }
 
             if(ch=='}'){
-                if(stack.isEmpty()|| stack.pop()!='{'){
+                if( stack.pop()!='{'){
                     return false;
                 }
             }
 
             if(ch==']'){
-                if(stack.isEmpty()|| stack.pop()!='['){
+                if( stack.pop()!='['){
                     return false;
                 }
             }
