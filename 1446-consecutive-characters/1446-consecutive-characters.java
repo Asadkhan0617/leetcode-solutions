@@ -10,7 +10,7 @@ class Solution {
             }
 
             if(s.charAt(right)!=s.charAt(left)){
-                max=Math.max(max,s.substring(left,right).length());
+                max=Math.max(max,right-left);
                 left=right;
             }
             right++;
