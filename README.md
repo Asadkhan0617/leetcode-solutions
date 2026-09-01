@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1446-consecutive-characters](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Bracket Sequences
 |  |
 | ------- |
