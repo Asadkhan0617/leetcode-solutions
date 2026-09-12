@@ -1,77 +1,91 @@
+import java.util.HashMap;
+
+class Node {
+    int key;
+    int value;
+    Node prev;
+    Node next;
+
+    Node(int key, int value) {
+        this.key = key;
+        this.value = value;
+    }
+}
+
 class LRUCache {
+
     int capacity;
-    HashMap<Integer,Node> map;
-    Node head,tail;
+    HashMap<Integer, Node> map;
+    Node head, tail;
 
     public LRUCache(int capacity) {
-        this.map=new HashMap<>();
-        this.capacity=capacity;
 
-        this.head=new Node(0,0);
-        this.tail=new Node(0,0);
+        this.capacity = capacity;
+        this.map = new HashMap<>();
 
-        head.next=tail;
-        tail.prev=head;
+        head = new Node(0, 0);
+        tail = new Node(0, 0);
+
+        head.next = tail;
+        tail.prev = head;
     }
-    
+
     public int get(int key) {
-        if(!map.containsKey(key)){
+
+        if (!map.containsKey(key)) {
             return -1;
         }
-        Node node =map.get(key);
+
+        Node node = map.get(key);
 
         remove(node);
         addToMRU(node);
 
         return node.value;
     }
-    
+
     public void put(int key, int value) {
-        if(map.containsKey(key)){
-            Node node=map.get(key);
-            node.value=value;
+
+        if (map.containsKey(key)) {
+
+            Node node = map.get(key);
+
+            node.value = value;
 
             remove(node);
             addToMRU(node);
-        } else{
-            Node node=new Node(key,value);
-            map.put(key,node);
+
+        } else {
+
+            Node node = new Node(key, value);
+
+            map.put(key, node);
+
             addToMRU(node);
 
-            if(map.size()>capacity){
-                Node lru=head.next;
+            if (map.size() > capacity) {
+
+                Node lru = head.next;
+
                 remove(lru);
                 map.remove(lru.key);
-
             }
         }
-   }
-
-   public void remove(Node node){
-     Node nextNode=node.next;
-     Node prevNode=node.prev;
-
-     prevNode.next=nextNode;
-     nextNode.prev=prevNode;
-         }
-
-    public void addToMRU(Node node){
-        tail.prev.next=node;
-        node.prev=tail.prev;
-        
-        node.next=tail;
-        tail.prev=node;
     }
 
+    public void remove(Node node) {
 
-}
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
+    }
 
-class Node{
-    int key,value;
-    Node prev,next;
-    Node (int key,int value){
-        this.key=key;
-        this.value=value;
+    public void addToMRU(Node node) {
+
+        tail.prev.next = node;
+        node.prev = tail.prev;
+
+        node.next = tail;
+        tail.prev = node;
     }
 }
 
