@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
