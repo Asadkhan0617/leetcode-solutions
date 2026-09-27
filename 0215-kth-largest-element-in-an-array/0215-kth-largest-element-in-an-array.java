@@ -10,11 +10,10 @@ class Solution {
         } 
         return minHeap.peek();
     }
-    public int add(int val) {
+    public void add(int val) {
         minHeap.offer(val);
         if(minHeap.size()>k){
             minHeap.poll();
         }
-        return minHeap.peek();
     }
 }
