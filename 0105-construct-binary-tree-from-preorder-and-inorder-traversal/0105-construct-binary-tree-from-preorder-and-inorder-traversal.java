@@ -15,6 +15,7 @@
  */
 class Solution {
     HashMap<Integer,Integer> inorderIndexMap;
+    
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         
     inorderIndexMap = new HashMap<>();
