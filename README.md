@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Range Minimum/Maximum Query
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -341,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
