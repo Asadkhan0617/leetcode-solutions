@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
 |  |
 | ------- |
