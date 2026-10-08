@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0349-intersection-of-two-arrays](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
 |  |
