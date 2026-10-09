@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Queue
 |  |
@@ -378,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
