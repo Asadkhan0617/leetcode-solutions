@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
