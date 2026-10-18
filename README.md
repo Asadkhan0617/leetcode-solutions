@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Design
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
