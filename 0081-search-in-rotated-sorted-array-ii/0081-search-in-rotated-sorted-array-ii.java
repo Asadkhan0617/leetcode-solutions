@@ -13,6 +13,7 @@ class Solution {
                 nums[mid] == nums[right]) {
                 left++;
                 right--;
+                continue;
             }
              else if(nums[left] <= nums[mid]){
                 if(nums[left] <= target && target < nums[mid]){
