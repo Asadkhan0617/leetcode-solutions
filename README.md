@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -127,11 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
