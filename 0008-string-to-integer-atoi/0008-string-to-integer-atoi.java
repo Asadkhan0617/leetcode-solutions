@@ -5,13 +5,12 @@ class Solution {
         int num = 0;
         s = s.trim();
         int n = s.length();
-        
+
         if (s.length() == 0) return 0;
 
         if (s.charAt(0) == '-') { sign = -1; i++; }
         else if (s.charAt(0) == '+') { i++; }
 
-        // Step 3: Process digits
         while (i < n && s.charAt(i) >= '0'
                      && s.charAt(i) <= '9') {
 
