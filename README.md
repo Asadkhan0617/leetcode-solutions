@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Monotonic Stack
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1446-consecutive-characters](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Bracket Sequences
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asadkhan0617/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Function
 |  |
